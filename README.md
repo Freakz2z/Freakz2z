@@ -71,33 +71,49 @@
 
 ### ⚡ Projects
 
-| Project | What / 是什么 |
-|---|---|
-| [**DeepFakeDetection**][dfd] | 基于 YOLOv11 的 AI 人脸伪造检测平台 |
-| [**OpenStudy**][os] | Markdown-first AI 学习工作台 — 笔记转练习题、复习、AI 问答 |
-| [**Muse**][muse] | AI 驱动的现代化英语学习应用 |
-| [**YOLO-CLIP**][yc] | 开放词汇目标检测桌面应用 — YOLO × CLIP |
-| [**video-intake-agent**][via] | 本地优先的视频归档 agent，支持 Codex & Claude Code |
-| [**OpenColor**][oc] | 跨平台取色器，为 VibeCoding 而生 |
-| [**GitHub-Wrapped**][gw] | 你的年度代码回顾，Spotify Wrapped 风格 |
-| [**Lumen**][lumen] | Vue 3 + Vite 现代化高颜值个人主页 |
+<p align="center">
+  <a href="https://github.com/Freakz2z/DeepFakeDetection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Freakz2z&repo=DeepFakeDetection&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/Freakz2z/OpenStudy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Freakz2z&repo=OpenStudy&theme=dark&hide_border=true" />
+  </a>
+</p>
 
-[dfd]: https://github.com/Freakz2z/DeepFakeDetection
-[os]: https://github.com/Freakz2z/OpenStudy
-[muse]: https://github.com/Freakz2z/Muse
-[yc]: https://github.com/Freakz2z/YOLO-CLIP_OpenVocDetection
-[via]: https://github.com/Freakz2z/video-intake-agent
-[oc]: https://github.com/Freakz2z/OpenColor
-[gw]: https://github.com/Freakz2z/GitHub-Wrapped
-[lumen]: https://github.com/Freakz2z/Lumen
+<p align="center">
+  <a href="https://github.com/Freakz2z/Muse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Freakz2z&repo=Muse&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/Freakz2z/YOLO-CLIP_OpenVocDetection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Freakz2z&repo=YOLO-CLIP_OpenVocDetection&theme=dark&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Freakz2z/video-intake-agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Freakz2z&repo=video-intake-agent&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/Freakz2z/OpenColor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Freakz2z&repo=OpenColor&theme=dark&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Freakz2z/GitHub-Wrapped">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Freakz2z&repo=GitHub-Wrapped&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/Freakz2z/Lumen">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Freakz2z&repo=Lumen&theme=dark&hide_border=true" />
+  </a>
+</p>
 
 ---
 
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Freakz2z&show_icons=true&theme=github_dark&hide_border=true&card_width=400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freakz2z&layout=compact&theme=github_dark&hide_border=true&card_width=300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Freakz2z&show_icons=true&theme=dark&hide_border=true&card_width=400&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freakz2z&layout=compact&theme=dark&hide_border=true&card_width=300" />
 </p>
 
 ---
