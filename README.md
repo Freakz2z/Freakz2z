@@ -77,23 +77,19 @@
 
 ### ⚡ Projects
 
-> **🤖 AI & Deep Learning**
-
 <p>
   <a href="https://github.com/Freakz2z/DeepFakeDetection"><b>DeepFakeDetection</b></a>
   &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <br/>
-  <samp>基于 YOLOv11 的 AI 人脸伪造检测平台 | ⭐ 9</samp>
+  <samp>基于 YOLOv11 的 AI 人脸伪造检测平台</samp>
 </p>
 
 <p>
   <a href="https://github.com/Freakz2z/YOLO-CLIP_OpenVocDetection"><b>YOLO-CLIP</b></a>
   &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <br/>
-  <samp>开放词汇目标检测桌面应用 — YOLO × CLIP | ⭐ 2</samp>
+  <samp>开放词汇目标检测桌面应用 — YOLO × CLIP</samp>
 </p>
-
-> **🛠️ Dev Tools**
 
 <p>
   <a href="https://github.com/Freakz2z/OpenStudy"><b>OpenStudy</b></a>
@@ -113,7 +109,7 @@
   <a href="https://github.com/Freakz2z/GitHub-Wrapped"><b>GitHub-Wrapped</b></a>
   &nbsp; <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <br/>
-  <samp>你的年度代码回顾，Spotify Wrapped 风格 | ⭐ 2</samp>
+  <samp>你的年度代码回顾，Spotify Wrapped 风格</samp>
 </p>
 
 <p>
@@ -123,13 +119,11 @@
   <samp>本地优先的视频归档 agent，支持 Codex & Claude Code</samp>
 </p>
 
-> **🎨 Creative**
-
 <p>
   <a href="https://github.com/Freakz2z/Muse"><b>Muse</b></a>
   &nbsp; <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <br/>
-  <samp>AI 驱动的现代化英语学习应用 | ⭐ 8</samp>
+  <samp>AI 驱动的现代化英语学习应用</samp>
 </p>
 
 <p>
