@@ -92,60 +92,14 @@
 </p>
 
 <p>
-  <a href="https://github.com/Freakz2z/OpenStudy"><b>OpenStudy</b></a>
-  &nbsp; <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <br/>
-  <samp>Markdown-first AI 学习工作台 — 笔记转练习题、复习、AI 问答</samp>
-</p>
-
-<p>
-  <a href="https://github.com/Freakz2z/OpenColor"><b>OpenColor</b></a>
-  &nbsp; <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <br/>
-  <samp>跨平台取色器，为 VibeCoding 而生</samp>
-</p>
-
-<p>
-  <a href="https://github.com/Freakz2z/GitHub-Wrapped"><b>GitHub-Wrapped</b></a>
-  &nbsp; <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <br/>
-  <samp>你的年度代码回顾，Spotify Wrapped 风格</samp>
-</p>
-
-<p>
-  <a href="https://github.com/Freakz2z/video-intake-agent"><b>video-intake-agent</b></a>
-  &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <br/>
-  <samp>本地优先的视频归档 agent，支持 Codex & Claude Code</samp>
-</p>
-
-<p>
   <a href="https://github.com/Freakz2z/Muse"><b>Muse</b></a>
   &nbsp; <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <br/>
   <samp>AI 驱动的现代化英语学习应用</samp>
 </p>
 
-<p>
-  <a href="https://github.com/Freakz2z/Lumen"><b>Lumen</b></a>
-  &nbsp; <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
-  <br/>
-  <samp>Vue 3 + Vite 现代化高颜值个人主页</samp>
-</p>
-
----
-
-### 📊 Stats
-
-```
-⭐ Total Stars     :  21
-📦 Public Repos    :  8
-🐍 Top Languages   :  TypeScript · Python · Vue
-🔥 Most Active In  :  AI/ML · DevTools · Frontend
-```
-
 ---
 
 <p align="center">
-  <samp>「热爱可抵岁月漫长。」</samp>
+  <samp>「无限进步」</samp>
 </p>
