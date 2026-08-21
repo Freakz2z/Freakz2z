@@ -81,29 +81,59 @@ Building agent systems, creative AI tools, computer vision projects, and playful
 
 <h2 align="center">Tech Constellation</h2>
 
+<p align="center">
+  A project-backed map of the languages, frameworks, models, and infrastructure I use to turn ideas into running systems.
+</p>
+
 <div align="center">
 
-<p><b>Languages</b></p>
+<p><b>Languages · 编程语言</b></p>
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
 
-<p><b>Apps & Interfaces</b></p>
+<p><b>Frontend & Desktop · 前端与桌面端</b></p>
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
 <img src="https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=9FEAF9" alt="Electron">
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion">
+<img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=chartdotjs&logoColor=white" alt="Recharts">
+<img src="https://img.shields.io/badge/CustomTkinter-1F6AA5?style=flat-square&logo=python&logoColor=white" alt="CustomTkinter">
 
-<p><b>AI & Systems</b></p>
+<p><b>Agents, AI & Vision · Agent、AI 与视觉</b></p>
 
+<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+<img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=yolo&logoColor=white" alt="YOLO">
+<img src="https://img.shields.io/badge/CLIP-412991?style=flat-square&logo=openai&logoColor=white" alt="CLIP">
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Pillow-3776AB?style=flat-square&logo=python&logoColor=white" alt="Pillow">
+
+<p><b>Backend, Data & Cloud · 后端、数据与云端</b></p>
+
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+<img src="https://img.shields.io/badge/Django_REST-8B1A1A?style=flat-square&logo=django&logoColor=white" alt="Django REST Framework">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white" alt="Cloudflare Workers">
+<img src="https://img.shields.io/badge/Durable_Objects-F48120?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Durable Objects">
+<img src="https://img.shields.io/badge/Wrangler-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Wrangler">
+
+<p><b>Quality & Tooling · 测试与工程工具</b></p>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+<img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm">
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest">
+<img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" alt="Testing Library">
+<img src="https://img.shields.io/badge/Node_Test_Runner-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js test runner">
+<img src="https://img.shields.io/badge/Electron_Builder-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron Builder">
 
 </div>
 
