@@ -116,6 +116,13 @@
   <samp>为 DeepSeek Harness 打造的 token 高效人格运行时</samp>
 </p>
 
+<p>
+  <a href="https://github.com/Freakz2z/agent-native-evals"><b>agent-native-evals</b></a>
+  &nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <br/>
+  <samp>离线优先的 AI Agent 轨迹评测工具，检查工具调用、输出约束、token 与延迟预算</samp>
+</p>
+
 #### 🎮 Interactive AI
 
 <p>
