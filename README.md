@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Freakz2z — an AI-native builder creating agent systems, creative tools, computer vision projects, and interactive AI experiences">
-</p>
-
 <div align="center">
 
 ### AI-Native Developer · Student · Open-source Builder
@@ -16,7 +12,6 @@ Building agent systems, creative AI tools, computer vision projects, and playful
 
 <img src="https://img.shields.io/badge/Focus-AI--Native-8B5CF6?style=for-the-badge" alt="Focus: AI-Native">
 <img src="https://img.shields.io/badge/Mode-Build_·_Run_·_Verify-0EA5E9?style=for-the-badge" alt="Mode: Build, Run, Verify">
-<img src="https://img.shields.io/badge/Open_Source-MIT-22C55E?style=for-the-badge" alt="Open source: MIT">
 
 </div>
 
@@ -40,7 +35,7 @@ Building agent systems, creative AI tools, computer vision projects, and playful
     <td align="center" width="50%">
       <h3><a href="https://github.com/Freakz2z/dsh-catgirl-plugin">dsh-catgirl-plugin</a></h3>
       <p>为 DeepSeek Harness 打造的 token 高效人格运行时，使用本地渲染与工具渐进披露保持能力和体验。</p>
-      <code>JavaScript</code> · <code>Agent Runtime</code> · <code>MIT</code>
+      <code>JavaScript</code> · <code>Agent Runtime</code>
     </td>
     <td align="center" width="50%">
       <h3><a href="https://github.com/Freakz2z/agent-native-evals">agent-native-evals</a></h3>
@@ -139,9 +134,5 @@ Building agent systems, creative AI tools, computer vision projects, and playful
 <br/><br/>
 
 <samp>「无限进步 · light up the midnight」</samp>
-
-<br/><br/>
-
-<a href="./LICENSE">MIT License</a>
 
 </div>
