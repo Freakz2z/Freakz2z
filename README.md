@@ -77,25 +77,52 @@
 
 ### ⚡ Projects
 
+#### 🤖 AI & Computer Vision
+
 <p>
   <a href="https://github.com/Freakz2z/DeepFakeDetection"><b>DeepFakeDetection</b></a>
   &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <br/>
-  <samp>基于 YOLOv11 的 AI 人脸伪造检测平台</samp>
+  <samp>基于 YOLOv11 和 Django 的 AI 人脸伪造检测平台</samp>
 </p>
 
 <p>
-  <a href="https://github.com/Freakz2z/YOLO-CLIP_OpenVocDetection"><b>YOLO-CLIP</b></a>
+  <a href="https://github.com/Freakz2z/YOLO-CLIP_OpenVocDetection"><b>YOLO-CLIP Open Vocabulary Detection</b></a>
   &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <br/>
-  <samp>开放词汇目标检测桌面应用 — YOLO × CLIP</samp>
+  <samp>基于 YOLO 与 CLIP 的开放词汇目标检测桌面应用</samp>
 </p>
+
+#### 🧠 AI Apps & Tools
 
 <p>
   <a href="https://github.com/Freakz2z/Muse"><b>Muse</b></a>
+  &nbsp; <img src="https://img.shields.io/badge/TypeScript-3178C2?style=flat&logo=typescript&logoColor=white" />
+  <br/>
+  <samp>AI 驱动的英语单词学习助手，支持桌面端与 Web 版本</samp>
+</p>
+
+<p>
+  <a href="https://github.com/Freakz2z/Blah"><b>Blah</b></a>
   &nbsp; <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <br/>
-  <samp>AI 驱动的现代化英语学习应用</samp>
+  <samp>运行在 Bilibili Toy 中的中文荒诞句子生成器</samp>
+</p>
+
+<p>
+  <a href="https://github.com/Freakz2z/dsh-catgirl-plugin"><b>dsh-catgirl-plugin</b></a>
+  &nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <br/>
+  <samp>为 DeepSeek Harness 打造的 token 高效人格运行时</samp>
+</p>
+
+#### 🎮 Interactive AI
+
+<p>
+  <a href="https://github.com/Freakz2z/werewolf-arena"><b>werewolf-arena</b></a>
+  &nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <br/>
+  <samp>八位 AI Agent + AI 主持人的狼人杀直播与录播系统</samp>
 </p>
 
 ---
