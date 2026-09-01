@@ -68,6 +68,18 @@ Building agent systems, creative AI tools, computer vision projects, and playful
     </td>
   </tr>
   <tr>
+    <td align="center" width="50%">
+      <h3><a href="https://github.com/Freakz2z/do-see-agent-research">Do ≠ See</a></h3>
+      <p>面向工具型 AI Agent 的故障条件授权研究，公开 P11-B 负结果、零调用预检与冻结的 P12 设计。</p>
+      <code>Python</code> · <code>Agent Research</code> · <code>Reproducibility</code>
+    </td>
+    <td align="center" width="50%">
+      <h3><a href="https://github.com/Freakz2z/dsh-evidence-ledger">dsh-evidence-ledger</a></h3>
+      <p>面向 DeepSeek Harness 的本地追加式证据账本插件，把事实、测试、决策与失败路径记录为可检索 JSONL。</p>
+      <code>JavaScript</code> · <code>DeepSeek Harness</code> · <code>Evidence Ledger</code>
+    </td>
+  </tr>
+  <tr>
     <td align="center" colspan="2">
       <h3><a href="https://github.com/Freakz2z/Blah">Blah</a></h3>
       <p>运行在 Bilibili Toy 中的中文荒诞句子生成器：让句子先听懂你，再故意讲歪。</p>
